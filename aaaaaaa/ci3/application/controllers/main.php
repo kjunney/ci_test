@@ -15,7 +15,7 @@ class Main extends CI_Controller {
 	 */
 	public function index(){
 		$this->lists();
-	}
+	} 
 	
 	/**
 	 * todo 목록
